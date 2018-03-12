@@ -3,10 +3,10 @@
 ## Columbia University COMS6998-CLoud Computing and Big Data
 
 ## Contributor: Haoran Guo, Minhui Li, Junyi Chen, Yamei Zhu
-Contribution: Haoran Guo: Cognito (User Authorization), Front-end (Javascript), API Gateway
-              Minhui Li: Lambda, API Gateway, Swigger
-              Junyi Chen: API Gateway, Front-end(HTML/CSS, Javascript), Lambda
-              Yamei Zhu: S3, Front-end(HTML), Git, Testing
+Contribution: Haoran Guo: Cognito (User Authorization), Front-end (Javascript), API Gateway;
+              Minhui Li: Lambda, API Gateway, Swigger;
+              Junyi Chen: API Gateway, Front-end(HTML/CSS, Javascript), Lambda;
+              Yamei Zhu: S3, Front-end(HTML), Git, Testing;
 
 #### This is a AI Customer Service where you can
 
