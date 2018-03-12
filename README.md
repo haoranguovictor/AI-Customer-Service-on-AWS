@@ -6,7 +6,7 @@
 Contribution: Haoran Guo: Cognito (User Authorization), Front-end (Javascript, jquery), API Gateway, Testing;
               Minhui Li: (Back-end), Lambda, API Gateway, Swigger;
               Junyi Chen: API Gateway, Front-end(HTML/CSS, Javascript), Lambda;
-              Yamei Zhu: S3, Front-end, Git, Testing;
+              Yamei Zhu: S3(Front-end storage), Front-end(HTML/CSS), Git, Testing;
 
 #### This is a AI Customer Service where you can
 
